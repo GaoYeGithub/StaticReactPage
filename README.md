@@ -1,5 +1,6 @@
-Run in scrimba or using
+Open in code sandbox and click preview
 
+or run in termial
 npm i
 npm start
 
